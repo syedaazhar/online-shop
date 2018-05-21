@@ -1,0 +1,37 @@
+body{
+    background-color: #6c757d;
+}
+
+/* .modal-content{
+    background-color:#a4b7c7;
+    color:grey;
+     /* text-align: center; */
+} */
+
+img{
+    align-self: center;
+    border: 2px solid transparent;
+}
+article{
+    color: black;
+    text-align: center;
+    padding: 6em;
+    font-size: 20px;
+}
+
+footer{
+    background-color:#6c757d ;
+    display: block !important;
+    height: 100px;
+    width: 2000px;
+}
+
+.card-deck > .card
+{
+    text-align: center;
+}
+
+.card
+{
+    margin:20px 0 ;
+}
